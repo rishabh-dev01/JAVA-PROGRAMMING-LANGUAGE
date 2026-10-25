@@ -1,3 +1,4 @@
+            // reverse of a number
 public class reverse_no {
     public static void main(String[] args) {
         int n = 10899 ;
